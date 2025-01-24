@@ -1,4 +1,5 @@
 # LLM을 활용한 RAG 기반 교내 챗봇
+![Image](https://github.com/user-attachments/assets/bd2715bf-b97d-4cb9-af40-ee049432d08a)
 
 ## 개발 기간
 2024년 10월 29일 - 2024년 11월 3일
